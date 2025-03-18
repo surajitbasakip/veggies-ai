@@ -11,6 +11,12 @@ A 5-screen Flutter app I *designed* to help newbies grow veggies—picks locatio
 - Defined the UI: gradients, shadows, back arrows, punchy text.
 - Used AI (Grok, by xAI) to code it—I’m the architect, Grok’s the builder.
 
+## Screenshots
+![Planting preference](veggiesAI2.png)
+![Location, Weather Selection](veggiesAI3.png)
+![Suggestions](veggiesAI4.png)
+![Descriptions ](veggiesAI5.png)
+
 ## How to Run
 1. Clone this repo: `git clone https://github.com/yourusername/veggies-ai.git`
 2. Install Flutter: [flutter.dev](https://flutter.dev)
