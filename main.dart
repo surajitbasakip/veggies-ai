@@ -1,3 +1,7 @@
+// VeggiesAI: Designed by Surajit Basak, coded with Grok (xAI), March 2025
+// A Flutter app to suggest veggie setups based on location and weather
+// Relplace 'YOUR_API_KEY_HERE' with your API key for weather update. I used OpenWeatherMap.
+
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'dart:convert';
@@ -270,7 +274,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
   }
 
   Future<void> _getCityState(double lat, double lon) async {
-    final apiKey = '99ee85828c3a86340b25ec1be0a9cade';
+    final apiKey = 'YOUR_API_KEY_HERE';
     final url = 'https://api.openweathermap.org/geo/1.0/reverse?lat=$lat&lon=$lon&appid=$apiKey';
     try {
       final response = await http.get(Uri.parse(url));
