@@ -19,10 +19,8 @@ A 5-screen Flutter app I *designed* to help newbies grow veggies—picks locatio
 5. `flutter run` on an emulator/simulator.
 
 ## Status
-Proof-of-concept—my jump from data science (PhD) to mobile dev!
+Proof-of-concept—my jump from computational physics (PhD) to mobile dev!
 
-## Screenshots
-[Add later: `![Location](location.png)` etc.]
 
 ## About Me
-PhD in computational materials science, data scientist (ML/DL), now exploring Flutter. See my [LinkedIn](https://linkedin.com/in/yourprofile).
+PhD in computational materials science, data scientist (ML/DL), now exploring Flutter. See my [LinkedIn](https://www.linkedin.com/in/surajitbasakk/).
